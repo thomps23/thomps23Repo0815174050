@@ -1,5 +1,22 @@
 {
-  "docsets_to_publish": [],
+  "docsets_to_publish": [
+    {
+      "docset_name": "thomps23Docset0815174050",
+      "build_source_folder": "thomps23Docset0815174050",
+      "build_output_subfolder": "thomps23Docset0815174050",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    }
+  ],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
